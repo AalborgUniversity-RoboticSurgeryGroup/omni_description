@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>omni_description</name>
+  <description>The omni_description package</description>
+
+	<version>0.1.0</version>
+  <maintainer email="ces@es.aau.dk">Christoffer Sloth</maintainer>
+  <license>BSD</license>
+  <author>Francisco Suarez-Ruiz</author>
+  <author email="ces@es.aau.dk">Christoffer Sloth</author>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>urdf</build_depend>
+  <run_depend>urdf</run_depend>
+
+</package>
